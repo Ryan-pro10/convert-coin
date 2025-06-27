@@ -1,6 +1,6 @@
 <h1>Coinvert</h1>
 <br>
-<img src="https://github.com/Ryan-pro10/We-Care/blob/ab5a87489b5d62fc9a838bbff65e7b9cb00d5c72/Pagina%20do%20site.png?raw=true">
+<img src="https://github.com/Ryan-pro10/convert-coin/blob/main/pagina.png">
 <br>
 <h2> As tecnologias utilizadas no projeto </h2>
 <p>-HTML</p>
