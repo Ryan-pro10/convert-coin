@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+body {
+    background-color:  #f8f9fa;
+}
+
+.logo {
+    width: 300px;
+    display: block;
+    margin: 20px auto -16px;
+}
+
+main {
+    background:  #1e1e2f;
+    width: 375px;
+    border-radius: 20px;
+    margin: 0 auto 40px;
+    padding: 44px 24px 23px;
+}
+
+label {
+    color: #777777;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+select {
+    background: #ffffff ;
+    border: 1px solid #bbbbbb;
+    border-radius: 4px;
+    height: 48px;
+    width: 100%;
+    margin-bottom: 24px;
+    appearance: none;
+    padding-left: 18px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #555555;
+    cursor: pointer;
+}
+
+input {
+    background: #ffffff;
+    border: 1px solid #bbbbbb;
+    border-radius: 4px;
+    height: 48px;
+    width: 100%;
+    margin-bottom: 24px;
+    appearance: none;
+    padding-left: 18px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #555555;
+}
+
+button {
+    background-color: #2563eb;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100%;
+    border: none;
+    height: 48px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1e40af;
+}
+
+button:active {
+    opacity: 0.6;
+}
+
+section {
+    border: 1px solid #f8f9fa;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 12px;
+
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.arrow {
+ margin: 15px 0;
+}
+
+.coin-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+}
+
+.coin {
+    color: white;
+    font-size: 14px;
+}
+
+.valor-to-convert{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.valor {
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+
+
+
